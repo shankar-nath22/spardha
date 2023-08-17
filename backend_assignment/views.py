@@ -1,0 +1,1 @@
+## Add the necessary views for each urlpattern here.
